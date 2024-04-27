@@ -1,0 +1,72 @@
+h1{
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 5px;
+}
+h4, h5{
+    
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h6{
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+
+}
+label{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+}
+form{
+    display: flex;
+    justify-content: center;
+}
+input{
+    padding-right: 30px;
+    padding-left: 30px;
+}
+.update{
+    margin-left: 70px;
+    padding-left: 30px;
+    padding-right: 30px;
+    box-shadow: 2px 2px 15px rgb(89, 86, 86);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.createdetails{
+    margin-left: 70px;
+    padding-left: 35px;
+    padding-right: 35px;
+    box-shadow: 2px 2px 15px rgb(89, 86, 86);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.more{
+    display: flex;
+    justify-content: end;
+}
+.edit{
+    background-color: aquamarine;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.delete{
+    background-color: rgb(245, 70, 70);
+    padding-left: 30px;
+    padding-right: 30px;
+}
+.creat{
+    background-color: rgb(226, 114, 114);
+}
+.details{
+    background-color: rgb(109, 149, 222);
+}
+.card-header{
+    background-color: rgb(133, 133, 239);
+}
+.nav{
+    display: flex;
+    justify-content: end; 
+    margin-bottom: 15px;
+}
+button{
+    border-radius: 10px;
+}
+hr{
+    background-color: white;
+}
