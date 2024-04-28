@@ -1,8 +1,2 @@
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+this is my react Axios task .and this repository is creating in react.js using languages is HTML,CSS ,Java Scrpt and this repository is API curd oprations includet that means 
+Ex... is i'll creating a user data curd oprations .1st is i'll show on a user details and then you can see the righ said i'll creating a two buttonn 1.creat 2. users more details that stage is i'll useing router concept and then you can clik the user more details and then you can see the users  more then details  and agin i'll creating the right side two button 1.edit 2. delete you can clik the edit button go to the edite page and you can clik the delete button delete the user details thats'll this the my task  
